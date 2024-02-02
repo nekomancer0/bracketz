@@ -1,0 +1,12 @@
+{
+  "name": "bracketz",
+  "version": "1.0.2",
+  "description": "Parse brackets in strings",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "types": "./types",
+  "author": "nekomancer0",
+  "license": "ISC"
+}
