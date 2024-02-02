@@ -63,5 +63,3 @@ export default function bracketz<T extends string>(text: T): BracketzReturn<T> {
 
   return x;
 }
-
-console.log(bracketz("hello {username}").args);

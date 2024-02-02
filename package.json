@@ -1,6 +1,6 @@
 {
   "name": "bracketz",
-  "version": "1.0.2",
+  "version": "1.0.2-fix",
   "description": "Parse brackets in strings",
   "main": "dist/index.js",
   "scripts": {

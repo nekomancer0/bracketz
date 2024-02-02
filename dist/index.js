@@ -35,4 +35,3 @@ function bracketz(text) {
     return x;
 }
 exports.default = bracketz;
-console.log(bracketz("hello {username}").args);
